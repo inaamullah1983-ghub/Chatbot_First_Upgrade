@@ -1,0 +1,21 @@
+# 1. Private Secrets (Crucial!)
+.env
+
+# 2. Virtual Environments (Too big to upload)
+venv/
+.venv/
+env/
+
+# 3. Python Cache (System junk)
+__pycache__/
+*.pyc
+
+# 4. VS Code settings (Personal preferences)
+.vscode/
+
+# 5. Clean up logs and temporary files
+dist/
+build/
+*.exe
+*.zip
+*.spec

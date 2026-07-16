@@ -1,0 +1,10 @@
+{
+  "name": "Talk to Your Chatbot!",
+  "description": "A beautiful and interactive conversational agent powered by Google Gemini. Ask questions and get real-time answers in a modern UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
